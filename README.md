@@ -2,7 +2,7 @@
 
 這個專案包含了幾個基於淺層學習（Shallow Learning）的實驗，包含了不同的機器學習模型和資料集。該專案包括以下資料夾和文件：
 
-## 資料夾結構
+## <font color=skyblue>資料夾結構</font>
 
 - **HTML**: 相關大型實驗的 HTML 輸出文件，這些文件包含了實驗結果的詳細展示
   - `SML_3_ClassifierExp_AT&T.html`: AT&T 人臉資料集分類實驗結果
